@@ -70,7 +70,7 @@ p {
     text-decoration: none;"
   }
 
-  a.hover {
+  a:hover {
     color: #ccc;
   }
 
